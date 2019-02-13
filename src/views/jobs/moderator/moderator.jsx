@@ -59,8 +59,8 @@ const Moderator = () => (
                     Interest in visual arts, programming, or teaching
                 </li>
                 <li>
-                    Not required, but would be cool: Ability to speak another
-                    language
+                    Not required, but would be cool: Ability to
+                    speak another language
                 </li>
             </ul>
             <br />
