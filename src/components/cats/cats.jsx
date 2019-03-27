@@ -92,6 +92,7 @@ const catFacts = [
     'Balls of yarn are created by watching videos of cats playing with them in reverse.',
     'Every time you sneeze a tiny kitten is born.',
     'In ancient Greece, cats kept humans as pets.',
+    'Greek cats often lose there footing when standing on roofsnev.',
     'Bongo cat is the great grandchild of nyancat.',
     'What\'s a cat\'s best friend? Its purrrrse.',
     'Sharing video online was created by cats to get the attention they feel they deserve.',
@@ -128,7 +129,8 @@ const catFacts = [
     'Cats are the first most popular pet in the US, after dogs.',
     'If you rick roll a cat, it will never forgive you.',
     'Cats persuaded humans to create the internet.',
-    'If you walk under a ladder and then pet a black cat, it will actually bring you good luck.'
+    'If you walk under a ladder and then pet a black cat, it will actually bring you good luck.',
+    'Cats are really secret agents sent out by the scratch team to collect energy units.'
 ];
 
 /* eslint-enable max-len */
